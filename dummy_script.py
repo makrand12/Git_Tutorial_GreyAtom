@@ -2,7 +2,10 @@
 
 first_var = 1
 second_var = 2
-##removed third line
+
+fourth_var = 3
+fifth_var = 4
+
 
 ############  Do some computation ###################
 
